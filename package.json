@@ -1,0 +1,15 @@
+{
+  "name": "wern",
+  "version": "1.0.0",
+  "description": "WERN is a boilerplate for webpack,express, react(v18) and nodejs fullstack web aplications",
+  "main": "index.js",
+  "bin": {
+    "wern": "bin/index.js"
+  },
+  "scripts": {
+    "start": "echo \"Open frontend folder and call npm start in CLI there to run project\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishola Obafemi",
+  "license": "MIT"
+}
