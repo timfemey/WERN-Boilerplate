@@ -1,15 +1,22 @@
 {
   "name": "wern",
   "version": "1.0.0",
-  "description": "WERN is a boilerplate for webpack,express, react(v18) and nodejs fullstack web aplications",
+  "description": "WERN boilerplate, Webpack Express React Nodejs",
   "main": "index.js",
   "bin": {
     "wern": "bin/index.js"
   },
   "scripts": {
-    "start": "echo \"Open frontend folder and call npm start in CLI there to run project\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfemey/WERN-Boilerplate.git"
+  },
   "author": "Ishola Obafemi",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timfemey/WERN-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/timfemey/WERN-Boilerplate#readme"
 }
